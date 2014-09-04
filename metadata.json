@@ -1,0 +1,9 @@
+{
+  "name": "DropPod/redis",
+  "version": "0.0.0",
+  "summary": "A basic type for managing Redis",
+  "source": "https://github.com/DropPod/redis.git",
+  "author": "Pieter van de Bruggen",
+  "license": "MIT",
+  "dependencies": []
+}
